@@ -1,0 +1,62 @@
+/*-------------------------------*/
+
+/*           Shift Body          */
+
+/*-------------------------------*/
+
+.main {
+    margin-left: 0px;
+    position: relative;
+    padding: 16px;
+    transition: margin-left 0s;
+}
+
+#mainFeed {
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+}
+
+.title-control {
+    margin-bottom: 4%;
+    position: relative;
+    display: block;
+    width: 86%;
+    padding: 1% 26%;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    -webkit-transition: border-color .15s ease-in-out, -webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, -webkit-box-shadow .15s ease-in-out;
+    -o-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out, -webkit-box-shadow .15s ease-in-out;
+}
+
+.homeTitle {
+    text-align: center;
+}
+
+.w3-panel {
+    width: 27%;
+    display: inline-block;
+    margin-left: 13%;
+    background-color: #E80F6E;
+}
+
+.w3-card, .w3-card-2, .w3-card-3, .w3-card-4, .w3-card-5, .w3-card-6, .w3-card-7 {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 2%;
+    font-size: 30px;
+    text-align: center;
+}
+
+.w3-panel {
+    cursor: pointer;
+}
+
+.w3-card-7 {
+    margin-left: 32%;
+}

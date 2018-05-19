@@ -1,0 +1,16 @@
+.card {
+    background-color: white;
+    width: 75%;
+    border-radius: 10px;
+}
+
+.card6 {
+    cursor: pointer;
+    padding: 1%;
+    margin: 0 auto;
+    border-radius: 7px;
+    color: #273746;
+    background-color: white;
+    margin-top: 3Px;
+    margin-left: 17%;
+}
